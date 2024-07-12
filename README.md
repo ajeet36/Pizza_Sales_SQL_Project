@@ -1,1 +1,1 @@
-# Pizza_Sales_SQL_Project
+# Pizza_Sales_SQL_Project 🍕
